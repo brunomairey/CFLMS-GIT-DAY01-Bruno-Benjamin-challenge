@@ -1,0 +1,4 @@
+this is a new file - Beniamin
+the second line in a new file - Beniamin 
+the third line - Ben
+the fourth line - Ben
